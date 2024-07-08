@@ -46,3 +46,6 @@ Also note that the default cell sizing for the generated mazes is set very small
 ## Maze Generator
 
 With MazeGenerator as the current directory run **javac MazeGenerator.java** to compile the code. Then run **java MazeGenerator n**  , where n is the dimension of the square maze. Again, when generating large mazes you will need to increase the stack with the argument **-Xss1g**.
+
+# Credit
+Only Maze.java, Graph.java, GraphNode.java, GraphEdge.java, MazeGenerator.java were written by me. Everything else was provided by CS2210 at Western University. 
